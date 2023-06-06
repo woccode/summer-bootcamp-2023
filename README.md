@@ -1,2 +1,3 @@
-# summer-bootcamp-2023
-Materials for our WoCCode Boot Camp - Summer 2023
+# WoCCode Summer Bootcamp 2023: Open Source Programming in Python
+
+This repository hosts links to slides and code examples presented during this workshop.
