@@ -1,0 +1,21 @@
+>>> from example import add
+>>> from example import subtract, divide, example_set
+
+>>> add(6, 7)
+13
+
+>>> add(15, 50)
+65
+
+>>> subtract(13, 3)
+10
+
+>>> divide(10, 5)
+2.0
+
+>>> divide(10, 0)
+Traceback (most recent call last):
+ZeroDivisionError: division by zero
+
+>>> example_set()
+{'a', 'c', 'b'}
