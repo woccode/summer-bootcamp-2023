@@ -15,19 +15,19 @@ def test_fancy_foo(prep_fancy_data):
     assert prep_fancy_data == 26
 
 
-@pytest.mark.g1
+# @pytest.mark.g1
 def test_add():
     output = add(num1, num2)
     assert output == 55
 
 
-@pytest.mark.g1
+# @pytest.mark.g1
 def test_subtract():
     output = subtract(num1, num2)
     assert output == 45
 
 
-@pytest.mark.g1
+# @pytest.mark.g1
 def test_divide():
     output = divide(num1, num2)
     assert output == 10
