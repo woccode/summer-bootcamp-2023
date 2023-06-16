@@ -1,5 +1,9 @@
 # example.py
-
+"""
+Usage Examples:
+>>> add(100, 1)
+101
+"""
 
 def add(a, b):
     """
@@ -15,6 +19,15 @@ def add(a, b):
 
 
 def subtract(a, b):
+    """
+    Subtract two numbers
+
+    Usage examples:
+    >>> subtract(5, 8)
+    -3
+    >>> subtract(19, 3)
+    16
+    """
     return a - b
 
 
